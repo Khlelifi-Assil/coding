@@ -10,11 +10,11 @@ class App extends Component {
   constructor(props) {
     super(props);
     this.state = {
-      search: ""
+      search: "",
     };
   }
 
-  search = val => {
+  search = (val) => {
     this.setState({ search: val });
   };
 
