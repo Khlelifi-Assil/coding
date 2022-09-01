@@ -1,13 +1,13 @@
 const data = [
     {
         id: 1,
-        name: "Elangovan",
+        name: "Khelifi Assil",
         image: "",
         technology: "ReactJs, Javascript",
         country: "India",
         biography: "I am Full Stack Web Developer"
     },
-    {
+    /*{
         id: 2,
         name: "Darpan",
         image:
@@ -283,7 +283,7 @@ const data = [
         technology: "JavaScript, NodeJS, React, Python",
         country: "Rwanda",
         biography: "Full stack Developer"
-    }
+    }*/
 ];
 
 function getProduct({startIndex, getCount, filter}, callback) {
