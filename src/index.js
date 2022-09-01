@@ -7,8 +7,8 @@ import App from "./App";
 import * as serviceWorker from "./serviceWorker";
 
 import "bootstrap/dist/css/bootstrap.css";
-import "devicon/devicon.git/devicon.css";
-import "devicon/devicon.git/devicon-colors.css";
+//import "devicon/devicon.git/devicon.css";
+//import "devicon/devicon.git/devicon-colors.css";
 import "font-mfizz/dist/font-mfizz.css";
 
 ReactDOM.render(
