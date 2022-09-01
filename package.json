@@ -5,7 +5,7 @@
   "dependencies": {
     "all-contributors-cli": "^6.16.1",
     "bootstrap": "^4.5.0",
-    "devicon": "^2.2.0",
+    "devicon": "^2.15.1",
     "font-mfizz": "^2.4.1",
     "react": "^16.6.0",
     "react-blink-text": "^1.0.3",
